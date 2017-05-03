@@ -1,0 +1,296 @@
+/*
+ *	Social Color Library
+ *	Copyright 2017
+ *	Author: Dylan van Heugten
+ *	All Rights Reserved.
+ *	Use, reproduction, distribution and modification of this code is subject to the terms and
+ *	conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php
+ */
+
+/* Facebook */
+.socialFacebook {background-color: #3b5999;}
+.socialFacebook-hover:hover {background-color: #3b5999;}
+.socialFacebook-text {color: #3b5999;}
+.socialFacebook-text-hover:hover {color: #3b5999;}
+.socialFacebook-border {border-color: #3b5999;}
+.socialFacebook-border-hover:hover {border-color: #3b5999;}
+
+/* Messenger */
+.socialMessenger {background-color: #0084ff;}
+.socialMessenger-hover:hover {background-color: #0084ff;}
+.socialMessenger-text {color: #0084ff;}
+.socialMessenger-text-hover:hover {color: #0084ff;}
+.socialMessenger-border {border-color: #0084ff;}
+.socialMessenger-border-hover:hover {border-color: #0084ff;}
+
+/* Twitter */
+.socialTwitter {background-color: #55acee ;}
+.socialTwitter-hover:hover {background-color: #55acee;}
+.socialTwitter-text {color: #55acee;}
+.socialTwitter-text-hover:hover {color: #55acee;}
+.socialTwitter-border {border-color: #55acee;}
+.socialTwitter-border-hover:hover {border-color: #55acee;}
+
+/* LinkedIn */
+.socialLinkedIn {background-color: #0077B5;}
+.socialLinkedIn-hover:hover {background-color: #0077B5;}
+.socialLinkedIn-text {color: #0077B5;}
+.socialLinkedIn-text-hover:hover {color: #0077B5;}
+.socialLinkedIn-border {border-color: #0077B5;}
+.socialLinkedIn-border-hover:hover {border-color: #0077B5;}
+
+/* Skype */
+.socialSkype {background-color: #00AFF0;}
+.socialSkype-hover:hover {background-color: #00AFF0;}
+.socialSkype-text {color: #00AFF0;}
+.socialSkype-text-hover:hover {color: #00AFF0;}
+.socialSkype-border {border-color: #00AFF0;}
+.socialSkype-border-hover:hover {border-color: #00AFF0;}
+
+/* Dropbox */
+.socialDropbox {background-color: #007ee5;}
+.socialDropbox-hover:hover {background-color: #007ee5;}
+.socialDropbox-text {color: #007ee5;}
+.socialDropbox-text-hover:hover {color: #007ee5;}
+.socialDropbox-border {border-color: #007ee5;}
+.socialDropbox-border-hover:hover {border-color: #007ee5;}
+
+/* Wordpress */
+.socialWordpress {background-color: #21759b;}
+.socialWordpress-hover:hover {background-color: #21759b;}
+.socialWordpress-text {color: #21759b;}
+.socialWordpress-text-hover:hover {color: #21759b;}
+.socialWordpress-border {border-color: #21759b;}
+.socialWordpress-border-hover:hover {border-color: #21759b;}
+
+/* Vimeo */
+.socialVimeo {background-color: #1ab7ea;}
+.socialVimeo-hover:hover {background-color: #1ab7ea;}
+.socialVimeo-text {color: #1ab7ea;}
+.socialVimeo-text-hover:hover {color: #1ab7ea;}
+.socialVimeo-border {border-color: #1ab7ea;}
+.socialVimeo-border-hover:hover {border-color: #1ab7ea;}
+
+/* SlideShare */
+.socialSlideShare {background-color: #0077b5;}
+.socialSlideShare-hover:hover {background-color: #0077b5;}
+.socialSlideShare-text {color: #0077b5;}
+.socialSlideShare-text-hover:hover {color: #0077b5;}
+.socialSlideShare-border {border-color: #0077b5;}
+.socialSlideShare-border-hover:hover {border-color: #0077b5;}
+
+/* VK */
+.socialVK {background-color: #4c75a3;}
+.socialVK-hover:hover {background-color: #4c75a3;}
+.socialVK-text {color: #4c75a3;}
+.socialVK-text-hover:hover {color: #4c75a3;}
+.socialVK-border {border-color: #4c75a3;}
+.socialVK-border-hover:hover {border-color: #4c75a3;}
+
+/* Tumblr */
+.socialTumblr {background-color: #34465d;}
+.socialTumblr-hover:hover {background-color: #34465d;}
+.socialTumblr-text {color: #34465d;}
+.socialTumblr-text-hover:hover {color: #34465d;}
+.socialTumblr-border {border-color: #34465d;}
+.socialTumblr-border-hover:hover {border-color: #34465d;}
+
+/* Yahoo */
+.socialYahoo {background-color: #410093;}
+.socialYahoo-hover:hover {background-color: #410093;}
+.socialYahoo-text {color: #410093;}
+.socialYahoo-text-hover:hover {color: #410093;}
+.socialYahoo-border {border-color: #410093;}
+.socialYahoo-border-hover:hover {border-color: #410093;}
+
+/* Google Plus */
+.socialGooglePlus {background-color: #dd4b39;}
+.socialGooglePlus-hover:hover {background-color: #dd4b39;}
+.socialGooglePlus-text {color: #dd4b39;}
+.socialGooglePlus-text-hover:hover {color: #dd4b39;}
+.socialGooglePlus-border {border-color: #dd4b39;}
+.socialGooglePlus-border-hover:hover {border-color: #dd4b39;}
+
+/* Pinterest */
+.socialPinterest {background-color: #bd081c;}
+.socialPinterest-hover:hover {background-color: #bd081c;}
+.socialPinterest-text {color: #bd081c;}
+.socialPinterest-text-hover:hover {color: #bd081c;}
+.socialPinterest-border {border-color: #bd081c;}
+.socialPinterest-border-hover:hover {border-color: #bd081c;}
+
+/* Youtube */
+.socialYoutube {background-color: #cd201f;}
+.socialYoutube-hover:hover {background-color: #cd201f;}
+.socialYoutube-text {color: #cd201f;}
+.socialYoutube-text-hover:hover {color: #cd201f;}
+.socialYoutube-border {border-color: #cd201f;}
+.socialYoutube-border-hover:hover {border-color: #cd201f;}
+
+/* StumbleUpon */
+.socialStumbleUpon {background-color: #eb4924;}
+.socialStumbleUpon-hover:hover {background-color: #eb4924;}
+.socialStumbleUpon-text {color: #eb4924;}
+.socialStumbleUpon-text-hover:hover {color: #eb4924;}
+.socialStumbleUpon-border {border-color: #eb4924;}
+.socialStumbleUpon-border-hover:hover {border-color: #eb4924;}
+
+/* Reddit */
+.socialReddit {background-color: #ff5700;}
+.socialReddit-hover:hover {background-color: #ff5700;}
+.socialReddit-text {color: #ff5700;}
+.socialReddit-text-hover:hover {color: #ff5700;}
+.socialReddit-border {border-color: #ff5700;}
+.socialReddit-border-hover:hover {border-color: #ff5700;}
+
+/* Quora */
+.socialQuora {background-color: #b92b27;}
+.socialQuora-hover:hover {background-color: #b92b27;}
+.socialQuora-text {color: #b92b27;}
+.socialQuora-text-hover:hover {color: #b92b27;}
+.socialQuora-border {border-color: #b92b27;}
+.socialQuora-border-hover:hover {border-color: #b92b27;}
+
+/* Yelp */
+.socialYelp {background-color: #af0606;}
+.socialYelp-hover:hover {background-color: #af0606;}
+.socialYelp-text {color: #af0606;}
+.socialYelp-text-hover:hover {color: #af0606;}
+.socialYelp-border {border-color: #af0606;}
+.socialYelp-border-hover:hover {border-color: #af0606;}
+
+/* Weibo */
+.socialWeibo {background-color: #df2029;}
+.socialWeibo-hover:hover {background-color: #df2029;}
+.socialWeibo-text {color: #df2029;}
+.socialWeibo-text-hover:hover {color: #df2029;}
+.socialWeibo-border {border-color: #df2029;}
+.socialWeibo-border-hover:hover {border-color: #df2029;}
+
+/* ProductHunt */
+.socialProductHunt {background-color: #da552f;}
+.socialProductHunt-hover:hover {background-color: #da552f;}
+.socialProductHunt-text {color: #da552f;}
+.socialProductHunt-text-hover:hover {color: #da552f;}
+.socialProductHunt-border {border-color: #da552f;}
+.socialProductHunt-border-hover:hover {border-color: #da552f;}
+
+/* HackerNews */
+.socialHackerNews {background-color: #ff6600;}
+.socialHackerNews-hover:hover {background-color: #ff6600;}
+.socialHackerNews-text {color: #ff6600;}
+.socialHackerNews-text-hover:hover {color: #ff6600;}
+.socialHackerNews-border {border-color: #ff6600;}
+.socialHackerNews-border-hover:hover {border-color: #ff6600;}
+
+/* Soundcloud */
+.socialSoundcloud {background-color: #ff3300;}
+.socialSoundcloud-hover:hover {background-color: #ff3300;}
+.socialSoundcloud-text {color: #ff3300;}
+.socialSoundcloud-text-hover:hover {color: #ff3300;}
+.socialSoundcloud-border {border-color: #ff3300;}
+.socialSoundcloud-border-hover:hover {border-color: #ff3300;}
+
+/* Blogger */
+.socialBlogger {background-color: #f57d00;}
+.socialBlogger-hover:hover {background-color: #f57d00;}
+.socialBlogger-text {color: #f57d00;}
+.socialBlogger-text-hover:hover {color: #f57d00;}
+.socialBlogger-border {border-color: #f57d00;}
+.socialBlogger-border-hover:hover {border-color: #f57d00;}
+
+/* WhatsApp */
+.socialWhatsApp {background-color: #25D366;}
+.socialWhatsApp-hover:hover {background-color: #25D366;}
+.socialWhatsApp-text {color: #25D366;}
+.socialWhatsApp-text-hover:hover {color: #25D366;}
+.socialWhatsApp-border {border-color: #25D366;}
+.socialWhatsApp-border-hover:hover {border-color: #25D366;}
+
+/* WeChat */
+.socialWeChat {background-color: #09b83e;}
+.socialWeChat-hover:hover {background-color: #09b83e;}
+.socialWeChat-text {color: #09b83e;}
+.socialWeChat-text-hover:hover {color: #09b83e;}
+.socialWeChat-border {border-color: #09b83e;}
+.socialWeChat-border-hover:hover {border-color: #09b83e;}
+
+/* Line */
+.socialLine {background-color: #00c300;}
+.socialLine-hover:hover {background-color: #00c300;}
+.socialLine-text {color: #00c300;}
+.socialLine-text-hover:hover {color: #00c300;}
+.socialLine-border {border-color: #00c300;}
+.socialLine-border-hover:hover {border-color: #00c300;}
+
+/* Medium */
+.socialMedium {background-color: #02b875;}
+.socialMedium-hover:hover {background-color: #02b875;}
+.socialMedium-text {color: #02b875;}
+.socialMedium-text-hover:hover {color: #02b875;}
+.socialMedium-border {border-color: #02b875;}
+.socialMedium-border-hover:hover {border-color: #02b875;}
+
+/* Vine */
+.socialVine {background-color: #00b489;}
+.socialVine-hover:hover {background-color: #00b489;}
+.socialVine-text {color: #00b489;}
+.socialVine-text-hover:hover {color: #00b489;}
+.socialVine-border {border-color: #00b489;}
+.socialVine-border-hover:hover {border-color: #00b489;}
+
+/* Slack */
+.socialSlack {background-color: #3aaf85;}
+.socialSlack-hover:hover {background-color: #3aaf85;}
+.socialSlack-text {color: #3aaf85;}
+.socialSlack-text-hover:hover {color: #3aaf85;}
+.socialSlack-border {border-color: #3aaf85;}
+.socialSlack-border-hover:hover {border-color: #3aaf85;}
+
+/* Instagram */
+.socialInstagram {background-color: #e4405f;}
+.socialInstagram-hover:hover {background-color: #e4405f;}
+.socialInstagram-text {color: #e4405f;}
+.socialInstagram-text-hover:hover {color: #e4405f;}
+.socialInstagram-border {border-color: #e4405f;}
+.socialInstagram-border-hover:hover {border-color: #e4405f;}
+
+/* Dribbble */
+.socialDribbble {background-color: #ea4c89;}
+.socialDribbble-hover:hover {background-color: #ea4c89;}
+.socialDribbble-text {color: #ea4c89;}
+.socialDribbble-text-hover:hover {color: #ea4c89;}
+.socialDribbble-border {border-color: #ea4c89;}
+.socialDribbble-border-hover:hover {border-color: #ea4c89;}
+
+/* Flickr */
+.socialFlickr {background-color: #ff0084;}
+.socialFlickr-hover:hover {background-color: #ff0084;}
+.socialFlickr-text {color: #ff0084;}
+.socialFlickr-text-hover:hover {color: #ff0084;}
+.socialFlickr-border {border-color: #ff0084;}
+.socialFlickr-border-hover:hover {border-color: #ff0084;}
+
+/* FourSquare */
+.socialFourSquare {background-color: #f94877;}
+.socialFourSquare-hover:hover {background-color: #f94877;}
+.socialFourSquare-text {color: #f94877;}
+.socialFourSquare-text-hover:hover {color: #f94877;}
+.socialFourSquare-border {border-color: #f94877;}
+.socialFourSquare-border-hover:hover {border-color: #f94877;}
+
+/* Behance */
+.socialBehance {background-color: #131418;}
+.socialBehance-hover:hover {background-color: #131418;}
+.socialBehance-text {color: #131418;}
+.socialBehance-text-hover:hover {color: #131418;}
+.socialBehance-border {border-color: #131418;}
+.socialBehance-border-hover:hover {border-color: #131418;}
+
+/* Snapchat */
+.socialSnapchat {background-color: #FFFC00;}
+.socialSnapchat-hover:hover {background-color: #FFFC00;}
+.socialSnapchat-text {color: #FFFC00;}
+.socialSnapchat-text-hover:hover {color: #FFFC00;}
+.socialSnapchat-border {border-color: #FFFC00;}
+.socialSnapchat-border-hover:hover {border-color: #FFFC00;}

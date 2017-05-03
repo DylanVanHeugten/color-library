@@ -1,0 +1,168 @@
+/*
+ *	Flat UI Color Library
+ *	Copyright 2017
+ *	Author: Dylan van Heugten
+ *	All Rights Reserved.
+ *	Use, reproduction, distribution and modification of this code is subject to the terms and
+ *	conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php
+ */
+
+/* Turquoise */
+.flatTurquoise {background-color: #1abc9c;}
+.flatTurquoise-hover:hover {background-color: #1abc9c;}
+.flatTurquoise-text {color: #1abc9c;}
+.flatTurquoise-text-hover:hover {color: #1abc9c;}
+.flatTurquoise-border {border-color: #1abc9c;}
+.flatTurquoise-border-hover:hover {border-color: #1abc9c;}
+
+/* Green Sea */
+.flatGreenSea {background-color: #16a085;}
+.flatGreenSea-hover:hover {background-color: #16a085;}
+.flatGreenSea-text {color: #16a085;}
+.flatGreenSea-text-hover:hover {color: #16a085;}
+.flatGreenSea-border {border-color: #16a085;}
+.flatGreenSea-border-hover:hover {border-color: #16a085;}
+
+/* Emerald */
+.flatEmerald {background-color: #2ecc71;}
+.flatEmerald-hover:hover {background-color: #2ecc71;}
+.flatEmerald-text {color: #2ecc71;}
+.flatEmerald-text-hover:hover {color: #2ecc71;}
+.flatEmerald-border {border-color: #2ecc71;}
+.flatEmerald-border-hover:hover {border-color: #2ecc71;}
+
+/* Nephritis */
+.flatNephritis {background-color: #27ae60;}
+.flatNephritis-hover:hover {background-color: #27ae60;}
+.flatNephritis-text {color: #27ae60;}
+.flatNephritis-text-hover:hover {color: #27ae60;}
+.flatNephritis-border {border-color: #27ae60;}
+.flatNephritis-border-hover:hover {border-color: #27ae60;}
+
+/* Peter River */
+.flatPeterRiver {background-color: #3498db;}
+.flatPeterRiver-hover:hover {background-color: #3498db;}
+.flatPeterRiver-text {color: #3498db;}
+.flatPeterRiver-text-hover:hover {color: #3498db;}
+.flatPeterRiver-border {border-color: #3498db;}
+.flatPeterRiver-border-hover:hover {border-color: #3498db;}
+
+/* Belize Hole */
+.flatBelizeHole {background-color: #2980b9;}
+.flatBelizeHole-hover:hover {background-color: #2980b9;}
+.flatBelizeHole-text {color: #2980b9;}
+.flatBelizeHole-text-hover:hover {color: #2980b9;}
+.flatBelizeHole-border {border-color: #2980b9;}
+.flatBelizeHole-border-hover:hover {border-color: #2980b9;}
+
+/* Amethyst */
+.flatAmethyst {background-color: #9b59b6;}
+.flatAmethyst-hover:hover {background-color: #9b59b6;}
+.flatAmethyst-text {color: #9b59b6;}
+.flatAmethyst-text-hover:hover {color: #9b59b6;}
+.flatAmethyst-border {border-color: #9b59b6;}
+.flatAmethyst-border-hover:hover {border-color: #9b59b6;}
+
+/* Wisteria */
+.flatWisteria {background-color: #8e44ad;}
+.flatWisteria-hover:hover {background-color: #8e44ad;}
+.flatWisteria-text {color: #8e44ad;}
+.flatWisteria-text-hover:hover {color: #8e44ad;}
+.flatWisteria-border {border-color: #8e44ad;}
+.flatWisteria-border-hover:hover {border-color: #8e44ad;}
+
+/* Wet Asphalt */
+.flatWetAsphalt {background-color: #34495e;}
+.flatWetAsphalt-hover:hover {background-color: #34495e;}
+.flatWetAsphalt-text {color: #34495e;}
+.flatWetAsphalt-text-hover:hover {color: #34495e;}
+.flatWetAsphalt-border {border-color: #34495e;}
+.flatWetAsphalt-border-hover:hover {border-color: #34495e;}
+
+/* Midnight Blue */
+.flatMidnightBlue {background-color: #2c3e50;}
+.flatMidnightBlue-hover:hover {background-color: #2c3e50;}
+.flatMidnightBlue-text {color: #2c3e50;}
+.flatMidnightBlue-text-hover:hover {color: #2c3e50;}
+.flatMidnightBlue-border {border-color: #2c3e50;}
+.flatMidnightBlue-border-hover:hover {border-color: #2c3e50;}
+
+/* Sun Flower */
+.flatSunFlower {background-color: #f1c40f;}
+.flatSunFlower-hover:hover {background-color: #f1c40f;}
+.flatSunFlower-text {color: #f1c40f;}
+.flatSunFlower-text-hover:hover {color: #f1c40f;}
+.flatSunFlower-border {border-color: #f1c40f;}
+.flatSunFlower-border-hover:hover {border-color: #f1c40f;}
+
+/* Orange */
+.flatOrange {background-color: #f39c12;}
+.flatOrange-hover:hover {background-color: #f39c12;}
+.flatOrange-text {color: #f39c12;}
+.flatOrange-text-hover:hover {color: #f39c12;}
+.flatOrange-border {border-color: #f39c12;}
+.flatOrange-border-hover:hover {border-color: #f39c12;}
+
+/* Carrot */
+.flatCarrot {background-color: #e67e22;}
+.flatCarrot-hover:hover {background-color: #e67e22;}
+.flatCarrot-text {color: #e67e22;}
+.flatCarrot-text-hover:hover {color: #e67e22;}
+.flatCarrot-border {border-color: #e67e22;}
+.flatCarrot-border-hover:hover {border-color: #e67e22;}
+
+/* Pumpkin */
+.flatPumpkin {background-color: #d35400;}
+.flatPumpkin-hover:hover {background-color: #d35400;}
+.flatPumpkin-text {color: #d35400;}
+.flatPumpkin-text-hover:hover {color: #d35400;}
+.flatPumpkin-border {border-color: #d35400;}
+.flatPumpkin-border-hover:hover {border-color: #d35400;}
+
+/* Alizarin */
+.flatAlizarin {background-color: #e74c3c;}
+.flatAlizarin-hover:hover {background-color: #e74c3c;}
+.flatAlizarin-text {color: #e74c3c;}
+.flatAlizarin-text-hover:hover {color: #e74c3c;}
+.flatAlizarin-border {border-color: #e74c3c;}
+.flatAlizarin-border-hover:hover {border-color: #e74c3c;}
+
+/* Pomegranate */
+.flatPomegranate {background-color: #c0392b;}
+.flatPomegranate-hover:hover {background-color: #c0392b;}
+.flatPomegranate-text {color: #c0392b;}
+.flatPomegranate-text-hover:hover {color: #c0392b;}
+.flatPomegranate-border {border-color: #c0392b;}
+.flatPomegranate-border-hover:hover {border-color: #c0392b;}
+
+/* Clouds */
+.flatClouds {background-color: #ecf0f1;}
+.flatClouds-hover:hover {background-color: #ecf0f1;}
+.flatClouds-text {color: #ecf0f1;}
+.flatClouds-text-hover:hover {color: #ecf0f1;}
+.flatClouds-border {border-color: #ecf0f1;}
+.flatClouds-border-hover:hover {border-color: #ecf0f1;}
+
+/* Silver */
+.flatSilver {background-color: #bdc3c7;}
+.flatSilver-hover:hover {background-color: #bdc3c7;}
+.flatSilver-text {color: #bdc3c7;}
+.flatSilver-text-hover:hover {color: #bdc3c7;}
+.flatSilver-border {border-color: #bdc3c7;}
+.flatSilver-border-hover:hover {border-color: #bdc3c7;}
+
+/* Concrete */
+.flatConcrete {background-color: #95a5a6;}
+.flatConcrete-hover:hover {background-color: #95a5a6;}
+.flatConcrete-text {color: #95a5a6;}
+.flatConcrete-text-hover:hover {color: #95a5a6;}
+.flatConcrete-border {border-color: #95a5a6;}
+.flatConcrete-border-hover:hover {border-color: #95a5a6;}
+
+/* Asbestos */
+.flatAsbestos {background-color: #7f8c8d;}
+.flatAsbestos-hover:hover {background-color: #7f8c8d;}
+.flatAsbestos-text {color: #7f8c8d;}
+.flatAsbestos-text-hover:hover {color: #7f8c8d;}
+.flatAsbestos-border {border-color: #7f8c8d;}
+.flatAsbestos-border-hover:hover {border-color: #7f8c8d;}

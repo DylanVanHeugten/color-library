@@ -1,16 +1,14 @@
-CSS Color Library
-=====
+# CSS Color Library
 Flat UI Colors & Social Colors
 Within these stylesheets you can use text color, background color and border color.
 These also work with hover effects.
 
 For best use, the stylesheet should be loaded as your last stylesheet.
 
-Flat UI Colors
------
+## Flat UI Colors
 All colors for 'Flat UI Colors' have a prefix 'flat' followed by the colorname and property.
 
-**Flat Examples**
+### Flat Examples
 ``` css
 .flatAlizarin-text
 .flatEmerald-hover
